@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-07-31T12:52:51.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="t2d79RIQyF1om7vAwLMg" version="24.7.1" type="device">
+  <diagram name="Page-1" id="4PJfNPs3eZGysrXAEVwY">
+    <mxGraphModel dx="1120" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="10baLdtYA1hlqhc0_Ie4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10baLdtYA1hlqhc0_Ie4-1" target="10baLdtYA1hlqhc0_Ie4-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10baLdtYA1hlqhc0_Ie4-1" value="User Authentication&lt;div&gt;(Next.js auth)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10baLdtYA1hlqhc0_Ie4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10baLdtYA1hlqhc0_Ie4-2" target="10baLdtYA1hlqhc0_Ie4-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10baLdtYA1hlqhc0_Ie4-2" value="User Interface&lt;div&gt;(Next.js + Tailwind)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10baLdtYA1hlqhc0_Ie4-3" value="Backend Server&lt;div&gt;(Python+ Django)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10baLdtYA1hlqhc0_Ie4-4" value="Database&lt;div&gt;(PostgreSQL)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="10baLdtYA1hlqhc0_Ie4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.575;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="10baLdtYA1hlqhc0_Ie4-3" target="10baLdtYA1hlqhc0_Ie4-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
